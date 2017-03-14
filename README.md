@@ -5,9 +5,11 @@ react-native-sk-countdown is a simple countdown component for React Native, pure
 
 ##How to use it
 
-1. `npm install react-native-sk-countdown@latest --save`
+1. npm install react-native-sk-countdown@latest --save
+2. npm i react-addons-update --save
+3. Write this in index.ios.js / index.android.js
 
-2. Write this in index.ios.js / index.android.js
+
 
 ```javascript
 /**
